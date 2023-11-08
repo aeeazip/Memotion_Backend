@@ -1,6 +1,8 @@
 ## Memotion
 한이음 Team 정보응 프로젝트
 
+<br>
+
 ## Commit Message Convention
 
 > 커밋태그(#이슈 번호): 내용
