@@ -1,8 +1,7 @@
-## Memotion
+## Memotion : AR 기반 여행 기록 다이어리
 한이음 Team 정보응 프로젝트
 
 <br>
-
 ## Commit Message Convention
 
 > 커밋태그(#이슈 번호): 내용
